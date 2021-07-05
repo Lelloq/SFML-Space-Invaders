@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\include\alien.h(16): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\include\alien.h(17): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\include\alien.h(18): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\include\alien.h(19): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\include\alien.h(20): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\include\alien.h(21): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(231): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(387): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(429): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(430): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(485): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(530): warning C4018: '<': signed/unsigned mismatch
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(108): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\garyt\desktop\uni stuff\week 16 - 30\imat1908 2020 oop c++\assignment\spaceinvadersgary\spaceinvadersgary\src\main.cpp(109): warning C4390: ';': empty controlled statement found; is this the intent?
+  SpaceInvadersGary.vcxproj -> C:\Users\garyt\Desktop\Uni Stuff\Week 16 - 30\IMAT1908 2020 OOP C++\Assignment\SpaceInvadersGary\Debug\SpaceInvadersGary.exe
